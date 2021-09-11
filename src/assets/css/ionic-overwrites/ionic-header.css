@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Satisfy-Regular';
+  src: url('../../fonts/Satisfy-Regular.ttf');
+}
+
+ion-title {
+    font-size: 36px;
+    font-family: Satisfy-Regular;
+}
