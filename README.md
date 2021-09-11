@@ -20,9 +20,11 @@ The project will run and will be opened in the browser.
 
 <img width="1792" alt="Screenshot 2021-09-12 at 12 11 36 AM" src="https://user-images.githubusercontent.com/47595149/132958390-20db1d03-a3f0-4db6-90f4-958a66c89a27.png">
 
-<img width="1792" alt="Screenshot 2021-09-12 at 12 12 20 AM" src="https://user-images.githubusercontent.com/47595149/132958495-e9a2a27c-f3a7-4f8e-b644-60ef905023b3.png">
+3) On completion of first inning, the score of the first inning and target will be visible as shown below:
 
-3)Once any team wins, the result will be popped up as shown below:
+<img width="1792" alt="Screenshot 2021-09-12 at 12 12 20 AM" src="https://user-images.githubusercontent.com/47595149/132959104-d84945fa-7c77-4528-a060-c429edc24b82.png">
+
+4) Once any team wins, the result will be popped up as shown below:
 
 <img width="1214" alt="Screenshot 2021-09-12 at 12 26 14 AM" src="https://user-images.githubusercontent.com/47595149/132958466-1e9bb922-8697-42c9-9f54-10a3ddf532f3.png">
 
@@ -34,7 +36,7 @@ Yes, you guessed it right! It's time for a super over.
 
 <img width="1023" alt="Screenshot 2021-09-12 at 12 33 19 AM" src="https://user-images.githubusercontent.com/47595149/132958704-ffad2e0a-cd8f-4664-a6c7-82b984d80980.png">
 
-2) On the auto-completion of the first inning, random 6 bowling cards will be selected and shown in the screen. You just have to select the "Shot type" and "Shot timing" for each bowling card.
+2) On the auto-completion of the first inning, random 6 bowling cards will be selected and shown in the screen. The total of the first inning will also be calculated randomly in the background and shown to you along with the target. You just have to select the "Shot type" and "Shot timing" for each bowling card.
 
 <img width="1222" alt="Screenshot 2021-09-12 at 12 33 45 AM" src="https://user-images.githubusercontent.com/47595149/132958767-3834c0e7-32b5-4aac-937b-a12667a03103.png">
 
@@ -42,7 +44,11 @@ Yes, you guessed it right! It's time for a super over.
 
 <img width="1288" alt="Screenshot 2021-09-12 at 12 38 10 AM" src="https://user-images.githubusercontent.com/47595149/132958832-ef4d5573-29b1-41d3-b52d-9f78f2d26474.png">
 
-# Fun Fact: You don't always have to play both the innings and tie the match to play the super over. You also have an option in the homepage where you can directly selec the "Overs" as "1 (Super Over)" to directly play the super over match.
+# Fun Fact
+
+An audio commentary will be played for each shot you play.
+
+Also, you don't always have to play both the innings and tie the match to play the super over. You also have an option in the homepage where you can directly selec the "Overs" as "1 (Super Over)" to directly play the super over match.
 
 <img width="996" alt="Screenshot 2021-09-12 at 12 11 14 AM" src="https://user-images.githubusercontent.com/47595149/132958943-6016c3cc-2293-4869-bc93-ad9500d0349b.png">
 
